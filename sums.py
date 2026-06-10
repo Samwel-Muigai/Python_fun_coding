@@ -1,0 +1,10 @@
+a=3
+b=4
+c=(a%b)*6
+d=c/b
+e=(a+b+c)/4
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
